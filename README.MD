@@ -1,5 +1,10 @@
-## Fazendo o deploy da aplicação
+# 1 - Baixando o exemplo 
 
-gcloud app deploy --project <id-do-projeto-do-GCP>
+git clone https://github.com/Ricardoporfiriovieira/exemplo-deploy-appengine
 
-gcloud app browse
+cd exemplo-deploy-appengine/
+
+# 2 - Fazendo o deploy da aplicação
+
+gcloud app deploy
+
