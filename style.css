@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #6d89e6;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-top: 0;
+  }
+  
+  p {
+    font-size: 1.2em;
+    line-height: 1.5;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-top: 0;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .introducao {
+    text-align: center;
+  }
+  
+  .vantagens {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .casos-uso {
+    padding: 20px;
+    background-color: #f5f5f5;
+  }
+  
+  .como-comecar {
+    padding: 20px;
+    background-color: #f1f1f1;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: #d5704e;
+    color: #fff;
+    padding: 20px;
+  }
