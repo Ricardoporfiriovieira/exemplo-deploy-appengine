@@ -1,4 +1,6 @@
 runtime: python39
+env: standard
+service: exemplo-deploy-appengine
 
 handlers:
 - url: /
